@@ -1,0 +1,118 @@
+header{
+    text-align: center;
+    color: #af0e0e;
+    background-color: #d6a266;
+    padding: 1px;
+    font-size: 27px;
+}
+
+body{
+    background-color: #df927d;
+    margin:0
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+nav{
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 10px;
+    background-color: #7a2e1f;
+    
+
+}
+
+.services h2{
+    color: rgb(19, 91, 38);
+    margin: 10px;
+}
+
+.services{
+    margin: auto;
+}
+
+
+main h1{
+    background-color: #ff7e5f;
+    margin-left: 10px;
+    padding: 20px;
+    margin:0px;
+    color:#2760db;
+}
+
+footer{
+    padding: 10px;
+    background-color: #a45e0e;
+    list-style: none;
+    color: azure;
+    
+}
+
+li{
+    color: #021f30;
+    font-size: 15px;
+}
+.about{
+    color: white;
+    background-color: #bdb821;
+    margin: 0px;
+    padding: 10px;
+}
+.about h2{
+    color:rgb(137, 82, 10)
+}
+.meals{
+    background-color: rgb(183, 231, 113);
+    padding: 20px;
+    margin: 40px;
+    border-radius: 15px;
+    text-align: center;
+
+}
+
+.drinks{
+    background-color: rgb(222, 174, 30);
+    padding: 20px;
+    margin: 40px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.desserts{
+    background-color: rgb(220, 233, 39);
+    padding: 20px;
+    margin: 40px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+img{
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 15px;
+}
+
+.index h2{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+footer a{
+    color: blue;
+}
+.services li{
+    margin-bottom: 20px;
+    margin-top: 25px;
+    font-weight: bold;
+}
+
+
+footer li{
+    font-size: 17px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
